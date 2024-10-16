@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **"Grand Ta'lim"**
 
-- 🌱 I’m currently learning **Nuxt Js, Typescript, Python**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/muslim-571/sites](https://app.netlify.com/teams/muslim-571/sites)
 
