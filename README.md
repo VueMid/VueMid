@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm { "Turabov Umidjon" }</h1>
 <h3 align="center">A passionate Front-End Developer from Uzbekistan Country</h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcsifac.mans.edu.eg%2Findex.php%2Fen%2Funits%2Finformation-technology-unit&psig=AOvVaw1GSOEy-lrpJ6zcvJU1O8Zp&ust=1729168926510000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCq9q72kokDFQAAAAAdAAAAABAE" alt="coder" width="400">
+<img align="right" src="https://csifac.mans.edu.eg/images/design/it.gif" alt="coder" width="400">
 <p align="left"></p>
 
 - 🔭 I’m currently working on **"Grand Ta'lim"**
