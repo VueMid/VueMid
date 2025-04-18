@@ -3,7 +3,7 @@
 <img align="right" src="https://csifac.mans.edu.eg/images/design/it.gif" alt="coder" width="400">
 <p align="left"></p>
 
-- 🔭  I’m currently working at **"OneSystem Group", an IT company.**
+- 🔭  I’m currently working at **"OneSystem IT Group", an IT company.**
 
 - 🌱 I’m currently learning **Python**
 
