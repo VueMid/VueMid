@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm { "Turabov Umidjon" }</h1>
-<h3 align="center">A passionate Front-End Developer from Uzbekistan Country</h3>
+<h3 align="center">A passionate Frontend Developer from Uzbekistan Country</h3>
 <img align="right" src="https://csifac.mans.edu.eg/images/design/it.gif" alt="coder" width="400">
 <p align="left"></p>
 
